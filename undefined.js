@@ -64,7 +64,9 @@ console.log(eighth);
 
 
 //null:
-//server theke khoj kora kono data na pele null diye output er kaj ta kora hoy
+//server theke khoj kora kono data na pele, null diye output er kaj ta kora hoy
+// mane ami jodi google e kono kichu janar jonno search kori , r seitar kono informations na thakle , output null diye set korte hoy
+
 const ninth = null;
 
 const data = {results: [], updated: null};
